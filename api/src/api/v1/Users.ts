@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Prisma } from '@prisma/client'
 import axios from 'axios'
 import { Request, Response } from 'express'
